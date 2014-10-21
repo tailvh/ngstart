@@ -1,0 +1,21 @@
+{
+	"name": "angular-template-project",
+	"homepage": "https://github.com/marcorinck/ngStart",
+	"main": "src/main/css/project.css",
+	"ignore": [
+		".jshintrc",
+		"**/*.txt"
+	],
+	"dependencies": {
+		"angular": "1.2.19",
+		"angular-route": "1.2.19",
+		"almond": "0.2.9",
+		"requirejs": "2.1.14",
+		"angular-translate": "1.0.2",
+		"angular-translate-loader-static-files": "0.1.4"
+	},
+	"devDependencies": {
+		"angular-mocks": "1.2.19",
+		"angular-translate-handler-log": "0.1.4"
+	}
+}
